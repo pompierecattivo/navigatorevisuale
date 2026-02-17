@@ -1,9 +1,9 @@
 {
-  "versione": "1.1.0",
+  "versione": "1.1.1",
   "url": "https://github.com/pompierecattivo/navigatorevisuale/releases/latest/download/NavigatoreVisuale.exe",
   "note": [
     "Documenti HTML",
     "Drag and drop card",
-    "VNC capabilities"
+    "VNC capabilities+"
   ]
 }
